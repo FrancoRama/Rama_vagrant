@@ -1,0 +1,16 @@
+    1  cd repogit
+    2  ls
+    3  cd UTN-FRA_SO_onBording
+    4  git status
+    5  git commit -m "commit"
+    6  git push
+    7  cd repogit
+    8  ls
+    9  cd UTN-FRA_SO_onBording 
+   10  git push
+   11  git clone https://github.com/FrancoRama/Rama_vagrant.git
+   12  ls
+   13  cd Rama_vagrant/
+   14  ls
+   15  history
+   16  history > historial.txt
